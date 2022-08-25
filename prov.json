@@ -2,8 +2,17 @@
 	"org" : "CET",
 	"njb" : 3,
 	"jbs" : [
-				"BB1",
-				"BB2",
-				"BB3"
+				{"t" : "apk", "l" : "app coco"       , 
+												"h" : {"pkgn": "br.com.cetsp.pdfviewer", "vc": "7", "fh": "90cbd314851bb2d3a6881fd666a63d8d"} ,
+												"d" : {"User-Agent": "curl/7.38.0", "link": "https://www.dropbox.com/s/q8publnr0t929tu/pdf_view_v7.apk?dl=0", "ma": true}
+				},
+				{"t" : "fil", "l" : "arquivo X"      , 
+												"h" : {} ,
+												"d" : {"User-Agent": "curl/7.38.0", "link": "https://www.dropbox.com/s/vtu5o1czyqkqrn9/pdfmocv_cn.zip?dl=0", "hash": "3c554241ee262cf1802619126e7c7734", "fname": "pdfmocv_cn.zip", "ma": true, "dloc": "/Download/", "dexp": "/Download/"} 
+				},
+				{"t" : "cfg", "l" : "config dos inf" , 
+												"h" : {} ,
+												"d" : {"a": "", "h": [],"w": "","mca":false,"lc" : "https://www.dropbox.com/s/xpqn6f3xzqu25p7/agenda7.json?dl=0"} 
+				}
 			]
 }
