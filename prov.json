@@ -1,6 +1,6 @@
 {
 	"org" : "CET",
-	"njb" : 3,
+	"njb" : 0,
 	"jbs" : [
 				{"t" : "apk", "l" : "app coco"       , 
 												"h" : {"pkgn": "br.com.cetsp.pdfviewer", "vc": "7", "fh": "90cbd314851bb2d3a6881fd666a63d8d"} ,
