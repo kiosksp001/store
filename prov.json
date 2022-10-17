@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 29,
+    "njb": 28,
     "jbs": [
         {
             "t": "cfg",
@@ -29,21 +29,6 @@
                 "ida": true
             }
         },
-        {
-            "t": "apk",
-            "l": "INST zapCET-xmpp-2.13.0-debug.apk",
-            "h": {
-                "pkgn": "zapxmpp.cetsp.com.br",
-                "vc": "4204100",
-                "fh": "d2f0991972a4b425bf7a8712afbad3ac"
-            },
-            "d": {
-                "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/1kf452zakpl5uav/zapCET-xmpp-2.13.0-debug.apk?dl=0",
-                "ma": true,
-                "ida": true
-            }
-        },        
         {
             "t": "apk",
             "l": "INST. FISCAD V16",
