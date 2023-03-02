@@ -16,15 +16,15 @@
         },
         {
             "t": "apk",
-            "l": "INST ego-release_2.7.3.853-a12.apk",
+            "l": "INST ego-release_2.7.6.856-a12.apk",
             "h": {
                 "pkgn": "br.com.cetsp.ego",
-                "vc": "854",
-                "fh": "102be93553f62e40f3dec834637e4425"
+                "vc": "856",
+                "fh": "1771a34e74057c6ae7c53d89fd7ea64c"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/lbsr85fmqnr975x/ego-release_2.7.3.853-a12.apk?dl=0",
+                "link": "https://www.dropbox.com/s/zcmbclt126i35ub/ego-release_2.7.6.856-a12.apk?dl=0",
                 "ma": true,
                 "ida": true
             }
@@ -160,13 +160,13 @@
             "t": "apk",
             "l": "INST. ZAPCET zapcet_8.5.4.2566-release.apk",
             "h": {
-                "pkgn": "br.com.cetsp.zap",
-                "vc": "25669",
-                "fh": "06fe4fa1677a9fbf99b8cc952fa49cec"
+                "pkgn": "org.telegram.messenger.web",
+                "vc": "31649",
+                "fh": "f9252a46b8a9b3a89792e51198dee983"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/2q31qpp1kl7p5y5/zapcet_8.5.4.2566-release.apk?dl=0",
+                "link": "https://www.dropbox.com/s/s9guiuk76jd38lo/Telegram.apk?dl=0",
                 "ma": true,
                 "ida": true
             }
