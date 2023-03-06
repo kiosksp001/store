@@ -160,13 +160,13 @@
             "t": "apk",
             "l": "INST. ZAPCET zapcet_8.5.4.2566-release.apk",
             "h": {
-                "pkgn": "org.telegram.messenger.web",
-                "vc": "31649",
-                "fh": "f9252a46b8a9b3a89792e51198dee983"
+                "pkgn": "br.com.cetsp.zap",
+                "vc": "25669",
+                "fh": "06fe4fa1677a9fbf99b8cc952fa49cec"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/s9guiuk76jd38lo/Telegram.apk?dl=0",
+                "link": "https://www.dropbox.com/s/2q31qpp1kl7p5y5/zapcet_8.5.4.2566-release.apk?dl=0",
                 "ma": true,
                 "ida": true
             }
@@ -395,6 +395,21 @@
                 "link": "https://www.dropbox.com/s/4v0oxtd5iyzr82i/ecfo_1.29.apk?dl=0",
                 "ma": true
             }
-        }
+        },
+        {
+            "t": "apk",
+            "l": "INST. ZAPCET Telegram.apk",
+            "h": {
+                "pkgn": "org.telegram.messenger.web",
+                "vc": "31649",
+                "fh": "f9252a46b8a9b3a89792e51198dee983"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/s9guiuk76jd38lo/Telegram.apk?dl=0",
+                "ma": true,
+                "ida": true
+            }
+        }        
     ]
 }
