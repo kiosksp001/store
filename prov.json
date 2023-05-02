@@ -45,15 +45,15 @@
         },
         {
             "t": "apk",
-            "l": "INST. FTTPRINTER V10",
+            "l": "INST. FTTPRINTER V12",
             "h": {
                 "pkgn": "br.gov.sp.prefeitura.fttprinter",
-                "vc": "10",
-                "fh": "3f98b362782fc5775dba9d3a55bf4401"
+                "vc": "12",
+                "fh": "7b1900d1e5846c3088ecdd8420c2d801"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/iw7d3w4kqn3l8u3/fttprinter_v10.apk?dl=0",
+                "link": "https://www.dropbox.com/s/npmlnnhv34ac6g1/fttprinter_v12.0_SEWOO-release.apk?dl=0",
                 "ma": false,
                 "ida": true
             }
