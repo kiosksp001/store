@@ -31,15 +31,15 @@
         },
         {
             "t": "apk",
-            "l": "INST. FISCAD V16",
+            "l": "INST. FISCAD V17",
             "h": {
                 "pkgn": "br.com.cetsp.fiscad",
-                "vc": "16",
-                "fh": "1341b0737f614f52aa90fcc6045e5a6a"
+                "vc": "17",
+                "fh": "1b9c9547d840630e57cd9ce5422f22ca"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/xws0urmntpc2ug2/fiscad_v16_prod.apk?dl=0",
+                "link": "https://www.dropbox.com/s/7ar00r07b6fzr6q/fiscad_v17P.apk?dl=0",
                 "ma": true
             }
         },
