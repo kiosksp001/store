@@ -116,16 +116,17 @@
         },
         {
             "t": "apk",
-            "l": "WebView V8",
+            "l": "WebView V9",
             "h": {
                 "pkgn": "br.com.cetsp.webview",
-                "vc": "8",
-                "fh": "d78d86e98eaf013d4ad9fdfca4c28c4a"
+                "vc": "9",
+                "fh": "dd777739c5af42e5dfa14e90d30e6653"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/49u9svm9xrnpc4k/webview_v8.apk?dl=0",
-                "ma": false
+                "link": "https://www.dropbox.com/s/wjkl7oxwh5utbvz/webview_v9.apk?dl=0",
+                "ma": false,
+                "ida": true
             }
         },
         {
