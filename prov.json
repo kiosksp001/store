@@ -88,12 +88,12 @@
         },
         {
             "t": "fil",
-            "l": "COPIA QI - 2021",
+            "l": "COPIA QI - 2023",
             "h": {},
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/zr2nu1v5zfvqmej/qi.zip?dl=0",
-                "hash": "1ec72921f246b6e97a879e8798f67e70",
+                "link": "https://www.dropbox.com/s/4qtz9qzdyodopg9/qi_23.zip?dl=0",
+                "hash": "ef0a96ccf174e6ac8b1e27c7eca910a7",
                 "ma": true,
                 "fname": "pdf.zip",
                 "dloc": "/Download/",
