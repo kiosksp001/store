@@ -272,15 +272,15 @@
         },
         {
             "t": "apk",
-            "l": "INST eait_2.15.apk",
+            "l": "INST eait_2.17.apk",
             "h": {
                 "pkgn": "br.com.cetsp.eait",
-                "vc": "15",
-                "fh": "840b733599f5a5241fb39d5d46bc6406"
+                "vc": "17",
+                "fh": "ad44b0cf3c19148b1259d4d68cc092a7"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/kc67mwqufw85dfc/eait_2.15.apk?dl=0",
+                "link": "https://www.dropbox.com/s/hb1pfohns19vsqz/eait_2.17.apk?dl=0",
                 "ma": true,
                 "ida": true
             }
