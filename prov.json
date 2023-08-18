@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 28,
+    "njb": 29,
     "jbs": [
         {
             "t": "cfg",
@@ -397,6 +397,20 @@
                 "ma": true
             }
         },
+        {
+            "t": "fil",
+            "l": "COPIA POP017 - BODY CAM",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/b9mz1p2xv8ffr93/pop17.zip?dl=0",
+                "hash": "2a360ba857230f2f1c06df62a6185356",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },        
         {
             "t": "apk",
             "l": "INST. ZAPCET Telegram.apk",
