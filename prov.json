@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 29,
+    "njb": 30,
     "jbs": [
         {
             "t": "cfg",
@@ -158,21 +158,6 @@
             }
         },
         {
-            "t": "apk",
-            "l": "INST. ZAPCET zapcet_8.5.4.2566-release.apk",
-            "h": {
-                "pkgn": "br.com.cetsp.zap",
-                "vc": "25669",
-                "fh": "06fe4fa1677a9fbf99b8cc952fa49cec"
-            },
-            "d": {
-                "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/2q31qpp1kl7p5y5/zapcet_8.5.4.2566-release.apk?dl=0",
-                "ma": true,
-                "ida": true
-            }
-        },
-        {
             "t": "fil",
             "l": "COPIA Manual Obras",
             "h": {},
@@ -272,15 +257,15 @@
         },
         {
             "t": "apk",
-            "l": "INST eait_2.17.apk",
+            "l": "INSTALAÇÃO eAIT 2.18",
             "h": {
                 "pkgn": "br.com.cetsp.eait",
-                "vc": "17",
-                "fh": "ad44b0cf3c19148b1259d4d68cc092a7"
+                "vc": "18",
+                "fh": "101473c57a1dda1266f629bcf21cd6a0"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/hb1pfohns19vsqz/eait_2.17.apk?dl=0",
+                "link": "https://www.dropbox.com/s/qw3dwo8vxzhpvnz/eait_2.18.apk?dl=0",
                 "ma": true,
                 "ida": true
             }
@@ -385,15 +370,15 @@
         },
         {
             "t": "apk",
-            "l": "INSTALAÇÃO eCFO 1.29 PRO",
+            "l": "INSTALAÇÃO eCFO 1.30 PRO",
             "h": {
-                "fh": "618263be4d0e793c8ed2b1f765096aa5",
+                "fh": "339cecfac1c320241f4fe757371dd044",
                 "pkgn": "br.com.cetsp.ecfo",
-                "vc": "30"
+                "vc": "31"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/4v0oxtd5iyzr82i/ecfo_1.29.apk?dl=0",
+                "link": "https://www.dropbox.com/s/27ppbdht5ri69og/ecfo_1.30.apk?dl=0",
                 "ma": true
             }
         },
@@ -410,7 +395,37 @@
                 "dloc": "/Download/",
                 "dexp": "/Download/"
             }
-        },        
+        },
+        {
+            "t": "apk",
+            "l": "INST. ZAPCET zapcet_8.5.4.2566-release.apk",
+            "h": {
+                "pkgn": "br.com.cetsp.zap",
+                "vc": "25669",
+                "fh": "06fe4fa1677a9fbf99b8cc952fa49cec"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/2q31qpp1kl7p5y5/zapcet_8.5.4.2566-release.apk?dl=0",
+                "ma": true,
+                "ida": true
+            }
+        },                
+        {
+            "t": "apk",
+            "l": "INST Whatsapp CET",
+            "h": {
+                "pkgn": "com.whatsapp",
+                "vc": "240477000",
+                "fh": "852730412668761a4f817c96314e9c6e"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/WhatsApp_240477000.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
         {
             "t": "apk",
             "l": "INST. ZAPCET Telegram.apk",
@@ -425,6 +440,6 @@
                 "ma": true,
                 "ida": true
             }
-        }        
+        }                  
     ]
 }
