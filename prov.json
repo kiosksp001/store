@@ -243,16 +243,17 @@
         },
         {
             "t": "apk",
-            "l": "INST. EMERGENCIA CET",
+            "l": "INST Emergencia_V1-release.apk",
             "h": {
-                "pkgn": "br.com.cetsp.emergencia",
+                "pkgn": "br.com.cetsp.emer",
                 "vc": "1",
-                "fh": "28e25f16efd5f56c71498dbb2f22ae8a"
+                "fh": "51e3e257881a4f07df2dfef9945c1ce5"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/trvx1hw1aebwesy/emergencia_cet.apk?dl=0",
-                "ma": true
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/Emergencia_V1-release.apk",
+                "ma": true,
+                "ida": true
             }
         },
         {
