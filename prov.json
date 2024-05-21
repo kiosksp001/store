@@ -417,12 +417,12 @@
             "l": "INST Whatsapp CET",
             "h": {
                 "pkgn": "com.whatsapp",
-                "vc": "240577000",
-                "fh": "963485711a94230ac9b4b9ad38a25dc0"
+                "vc": "241080000",
+                "fh": "d0560df069e770dd6e5abd83933615fa"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/WhatsApp_240577000.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/WhatsApp_241080000.apk",
                 "ma": true,
                 "ida": true
             }
