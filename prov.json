@@ -116,16 +116,16 @@
         },
         {
             "t": "apk",
-            "l": "WebView V9",
+            "l": "INST webview_v12-release.apk",
             "h": {
                 "pkgn": "br.com.cetsp.webview",
-                "vc": "9",
-                "fh": "dd777739c5af42e5dfa14e90d30e6653"
+                "vc": "12",
+                "fh": "a4f374671b7c5caee91e09b7ec4c23c2"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/wjkl7oxwh5utbvz/webview_v9.apk?dl=0",
-                "ma": false,
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v12-release.apk",
+                "ma": true,
                 "ida": true
             }
         },
