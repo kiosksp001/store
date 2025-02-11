@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 30,
+    "njb": 29,
     "jbs": [
         {
             "t": "cfg",
@@ -16,15 +16,15 @@
         },
         {
             "t": "apk",
-            "l": "INST ego-release_2.7.6.856-a12.apk",
+            "l": "INST E-GO",
             "h": {
                 "pkgn": "br.com.cetsp.ego",
-                "vc": "856",
-                "fh": "1771a34e74057c6ae7c53d89fd7ea64c"
+                "vc": "2002",
+                "fh": "56189384666de3ddf16b5459ad02346b"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/zcmbclt126i35ub/ego-release_2.7.6.856-a12.apk?dl=0",
+                "link": "https://github.com/kiosksp002/lojalf/raw/main/ego-debug-prd_4.0.3.0613.apk",
                 "ma": true,
                 "ida": true
             }
@@ -389,8 +389,8 @@
             "h": {},
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/b9mz1p2xv8ffr93/pop17.zip?dl=0",
-                "hash": "2a360ba857230f2f1c06df62a6185356",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/pop17.zip",
+                "hash": "f251b9bfd175ad10100cc86e25f063ac",
                 "ma": true,
                 "fname": "pdf.zip",
                 "dloc": "/Download/",
@@ -399,15 +399,15 @@
         },
         {
             "t": "apk",
-            "l": "INST. ZAPCET zapcet_8.5.4.2566-release.apk",
+            "l": "INST Whatsapp CET",
             "h": {
-                "pkgn": "br.com.cetsp.zap",
-                "vc": "25669",
-                "fh": "06fe4fa1677a9fbf99b8cc952fa49cec"
+                "pkgn": "com.whatsapp",
+                "vc": "250271021",
+                "fh": "730311d4107039c7ee9fb438b775821d"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/2q31qpp1kl7p5y5/zapcet_8.5.4.2566-release.apk?dl=0",
+                "link": "https://github.com/kiosksp002/lojalf/raw/main/WhatsApp_250271021.apk",
                 "ma": true,
                 "ida": true
             }
