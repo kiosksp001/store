@@ -134,12 +134,12 @@
             "l": "INST CET MOODLE",
             "h": {
                 "pkgn": "br.com.cetsp.moodle",
-                "vc": "1",
-                "fh": "c8e8cdabe093cb4623fc6dd3513da85a"
+                "vc": "2",
+                "fh": "810f4c83dfb9f22cd665d5fc848e65d5"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://github.com/kiosksp001/teste/raw/master/moodlecet_v1.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/moodlecet_v2.apk",
                 "ma": true
             }
         },
