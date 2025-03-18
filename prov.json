@@ -24,7 +24,7 @@
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://github.com/kiosksp002/lojalf/raw/main/ego-debug-prd_4.0.3.0613.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ego-debug-prd_4.0.3.0613.apk",
                 "ma": true,
                 "ida": true
             }
@@ -402,12 +402,12 @@
             "l": "INST Whatsapp CET",
             "h": {
                 "pkgn": "com.whatsapp",
-                "vc": "250271021",
-                "fh": "730311d4107039c7ee9fb438b775821d"
+                "vc": "250773020",
+                "fh": "2236d3271f66c88b9fe9017db137a7b5"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://github.com/kiosksp002/lojalf/raw/main/WhatsApp_250271021.apk",
+                "link": "https://scontent.whatsapp.net/v/t61.25591-34/10000000_2037887796725943_4825487749845889646_n.apk/WhatsApp.apk?ccb=1-7&_nc_sid=c49adc&_nc_ohc=BJdHb2EkIhUQ7kNvgE0wG9w&_nc_oc=AdhuWuGtSlz1sGPCbMxmHNNiopbhpzRgktp_HZUmbF94yJgBUMXqxyiJ7olaFSWmusc&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=btSmM3wZ0ZkMmdKLJ8IFOw&oh=01_Q5AaIaIc2M9257pPdd8-tNH3ZuznDf0uKFNoBef5er_MnjPc&oe=680107EA",
                 "ma": true,
                 "ida": true
             }
