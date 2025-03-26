@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 29,
+    "njb": 30,
     "jbs": [
         {
             "t": "cfg",
@@ -11,9 +11,23 @@
                 "h": [],
                 "w": "",
                 "mca": false,
-                "lc": "https://raw.githubusercontent.com/kiosksp001/store/main/agenda7.json"
+                "lc": "https://www.dropbox.com/scl/fi/e15htyhjjpudf06hcg7nf/agenda7.json?rlkey=mw1rxynzznaih5up0ynj4q4ig&st=ii29awlr&dl=0"
             }
         },
+        {
+            "t": "fil",
+            "l": "COPIA PDFs",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/scl/fi/ngyyo0yb6f9d97dub3khr/pdfs.zip?rlkey=xzj6v5c8fg9sonkitg5705xq3&dl=0",
+                "hash": "67961278f29a5faa229c14357d1ac74e",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },        
         {
             "t": "apk",
             "l": "INST E-GO",
@@ -88,12 +102,12 @@
         },
         {
             "t": "fil",
-            "l": "COPIA QI - 2023",
+            "l": "COPIA QI - 2025",
             "h": {},
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/4qtz9qzdyodopg9/qi_23.zip?dl=0",
-                "hash": "698d86c099d05d65e6762bd76adac07f",
+                "link": "https://www.dropbox.com/scl/fi/6ocz62ta57y5zhd5i7nb8/qi_25.zip?rlkey=o5x2s8qoli02l6vl3kwsadrvn&dl=0",
+                "hash": "08ea1dc821ccd0201dbe4a70fcf1f61c",
                 "ma": true,
                 "fname": "pdf.zip",
                 "dloc": "/Download/",
