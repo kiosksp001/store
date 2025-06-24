@@ -272,15 +272,15 @@
         },
         {
             "t": "apk",
-            "l": "INSTALAÇÃO eAIT 2.18",
+            "l": "INSTALAÇÃO eAIT 2.19",
             "h": {
                 "pkgn": "br.com.cetsp.eait",
-                "vc": "18",
-                "fh": "101473c57a1dda1266f629bcf21cd6a0"
+                "vc": "19",
+                "fh": "b656bc283c941987bc54629a7036ac4b"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/qw3dwo8vxzhpvnz/eait_2.18.apk?dl=0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/eait_2.19.apk",
                 "ma": true,
                 "ida": true
             }
@@ -385,15 +385,15 @@
         },
         {
             "t": "apk",
-            "l": "INSTALAÇÃO eCFO 1.30 PRO",
+            "l": "INSTALAÇÃO eCFO 1.35 PRO",
             "h": {
-                "fh": "339cecfac1c320241f4fe757371dd044",
+                "fh": "b0e18bfe1723c39f5e9232cded9c5937",
                 "pkgn": "br.com.cetsp.ecfo",
-                "vc": "31"
+                "vc": "35"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://www.dropbox.com/s/27ppbdht5ri69og/ecfo_1.30.apk?dl=0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ecfo_1.35.apk",
                 "ma": true
             }
         },
