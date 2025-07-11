@@ -416,12 +416,12 @@
             "l": "INST Whatsapp CET",
             "h": {
                 "pkgn": "com.whatsapp",
-                "vc": "251977010",
-                "fh": "4deb1a50a7cdb158a59c3a262a4052ca"
+                "vc": "252072010",
+                "fh": "97c39be02d0fa8e53f6818b6e261df84"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://scontent.whatsapp.net/v/t61.25591-34/10000000_2126743741173681_8189452845969275909_n.apk/WhatsApp.apk?ccb=1-7&_nc_sid=c49adc&_nc_ohc=wQadOH6HOcoQ7kNvwFp2pxg&_nc_oc=Admz8YsUW0D0umBKUy51DUsY6cGRZiHxFtZs0u-AY3qT47x2cLs2Ibcb7wRnh9VzE2A&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=pU8zN1AUgTvCDpsZSU1zwg&oh=01_Q5Aa1wE7-BUWr4MrAyENBtQlnuBgEeMkzMvDvUZPxV3zxsfzBQ&oe=688E6175",
+                "link": "https://scontent.whatsapp.net/v/t61.25591-34/10000000_2133249060523149_6326126958676842609_n.apk/WhatsApp.apk?ccb=1-7&_nc_sid=c49adc&_nc_ohc=yvalHFve61YQ7kNvwE2yeft&_nc_oc=Adn8Y9DM5BMWf2E6ufJMonBU1QXDO7p8YPF_YfP3S1kML-jlhQT31F16p1JIYVqupFU&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=wTAyeHgkBuGVtoLQY4hGFQ&oh=01_Q5Aa2AEbzb9WZbW4hPbQk-uZUumxYWiybITlwHaRQjYPknbbfA&oe=6898DF84",
                 "ma": true,
                 "ida": true
             }
