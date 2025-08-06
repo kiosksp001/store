@@ -133,12 +133,12 @@
             "l": "INST webview_v12-release.apk",
             "h": {
                 "pkgn": "br.com.cetsp.webview",
-                "vc": "12",
-                "fh": "a4f374671b7c5caee91e09b7ec4c23c2"
+                "vc": "18",
+                "fh": "571899b9ed9d36a43743a2e41bceaa7b"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v12-release.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v18-release.apk",
                 "ma": true,
                 "ida": true
             }
