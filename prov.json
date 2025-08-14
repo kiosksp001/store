@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 30,
+    "njb": 31,
     "jbs": [
         {
             "t": "cfg",
@@ -428,15 +428,15 @@
         },
         {
             "t": "apk",
-            "l": "INST Whatsapp CET",
+            "l": "INST SMobile",
             "h": {
-                "pkgn": "com.whatsapp",
-                "vc": "241080000",
-                "fh": "d0560df069e770dd6e5abd83933615fa"
+                "pkgn": "com.cet.smobileresponder",
+                "vc": "1",
+                "fh": "65ec9c526dfd253013c997e645135f5d"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/WhatsApp_241080000.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobileV1_29-07-25.apk",
                 "ma": true,
                 "ida": true
             }
