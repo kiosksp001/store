@@ -432,11 +432,11 @@
             "h": {
                 "pkgn": "com.cet.smobileresponder",
                 "vc": "1",
-                "fh": "65ec9c526dfd253013c997e645135f5d"
+                "fh": "db11b1d80b47bd60bc5ecf7bb5c71c3b"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobileV1_29-07-25.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobileProd.apk",
                 "ma": true,
                 "ida": true
             }
