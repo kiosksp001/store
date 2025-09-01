@@ -130,15 +130,15 @@
         },
         {
             "t": "apk",
-            "l": "INST webview_v19-release.apk",
+            "l": "INST webview_v20-release.apk",
             "h": {
                 "pkgn": "br.com.cetsp.webview",
-                "vc": "19",
-                "fh": "09340b52132d96770fd21c099ae11f66"
+                "vc": "20",
+                "fh": "0a571201cb883bf0f271bb113a5386da"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v19-release.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v20-release.apk",
                 "ma": true,
                 "ida": true
             }
