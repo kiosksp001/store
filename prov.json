@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 30,
+    "njb": 31,
     "jbs": [
         {
             "t": "cfg",
@@ -431,8 +431,8 @@
             "l": "INST SMobile",
             "h": {
                 "pkgn": "com.cet.smobileresponder",
-                "vc": "1",
-                "fh": "db11b1d80b47bd60bc5ecf7bb5c71c3b"
+                "vc": "2",
+                "fh": "d96dce4b07a10f706af33c3b62e3d90e"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
