@@ -1,6 +1,6 @@
 {
     "org": "CET",
-    "njb": 31,
+    "njb": 30,
     "jbs": [
         {
             "t": "cfg",
@@ -28,22 +28,7 @@
                 "dexp": "/Download/"
             }
         },
-        {
-            "t": "apk",
-            "l": "INST E-GO",
-            "h": {
-                "pkgn": "br.com.cetsp.ego",
-                "vc": "2002",
-                "fh": "56189384666de3ddf16b5459ad02346b"
-            },
-            "d": {
-                "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ego-debug-prd_4.0.3.0613.apk",
-                "ma": true,
-                "ida": true
-            }
-        },
-        {
+	{
             "t": "apk",
             "l": "INST. FISCAD V18",
             "h": {
@@ -437,6 +422,21 @@
             "d": {
                 "User-Agent": "curl/7.38.0",
                 "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobileProd.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST E-GO",
+            "h": {
+                "pkgn": "br.com.cetsp.ego",
+                "vc": "2002",
+                "fh": "56189384666de3ddf16b5459ad02346b"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ego-debug-prd_4.0.3.0613.apk",
                 "ma": true,
                 "ida": true
             }
