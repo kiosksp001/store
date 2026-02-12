@@ -416,12 +416,12 @@
             "l": "INST SMobile",
             "h": {
                 "pkgn": "com.cet.smobileresponder",
-                "vc": "6",
-                "fh": "df840f5e9ca1db10ed4719d8221d7df7"
+                "vc": "8",
+                "fh": "91beda52edfbbc78bc0df2143a1bc3ad"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
-                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobile-PROD-1.2.0_6.apk",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobile-PROD_8.apk",
                 "ma": true,
                 "ida": true
             }
