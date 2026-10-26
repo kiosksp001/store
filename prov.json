@@ -257,11 +257,11 @@
         },
         {
             "t": "apk",
-            "l": "INSTALAÇÃO eAIT 2.21",
+            "l": "INSTALAÇÃO eAIT 2.22",
             "h": {
                 "pkgn": "br.com.cetsp.eait",
-                "vc": "21",
-                "fh": "2c2267cf18a9a9b5e09f5afffd838d41"
+                "vc": "22",
+                "fh": "2013d26931a61ac4b6ac427c4c290c57"
             },
             "d": {
                 "User-Agent": "curl/7.38.0",
