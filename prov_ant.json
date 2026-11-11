@@ -1,0 +1,460 @@
+{
+    "org": "CET",
+    "njb": 30,
+    "jbs": [
+        {
+            "t": "cfg",
+            "l": "AGENDA CET",
+            "h": {},
+            "d": {
+                "a": "",
+                "h": [],
+                "w": "",
+                "mca": false,
+                "lc": "https://www.dropbox.com/scl/fi/7487zj1l8t8fh34j05ppi/agenda7.json?rlkey=owtzl5tz8fq676vs20njxgot0&dl=0"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA PDFs",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/scl/fi/ngyyo0yb6f9d97dub3khr/pdfs.zip?rlkey=xzj6v5c8fg9sonkitg5705xq3&dl=0",
+                "hash": "67961278f29a5faa229c14357d1ac74e",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST. FISCAD V18",
+            "h": {
+                "pkgn": "br.com.cetsp.fiscad",
+                "vc": "18",
+                "fh": "a360af49e7d6a7ae2885539cb7f25d21"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/e36gmx5bg34c4s9/fiscad_v18-release.apk?dl=0",
+                "ma": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST. FTTPRINTER V12",
+            "h": {
+                "pkgn": "br.gov.sp.prefeitura.fttprinter",
+                "vc": "12",
+                "fh": "453a198da930fba2681a3ef99ec30665"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/npmlnnhv34ac6g1/fttprinter_v12.0_SEWOO-release.apk?dl=0",
+                "ma": false,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "PDF_VIEW_V7",
+            "h": {
+                "pkgn": "br.com.cetsp.pdfviewer",
+                "vc": "7",
+                "fh": "90cbd314851bb2d3a6881fd666a63d8d"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/q8publnr0t929tu/pdf_view_v7.apk?dl=0",
+                "ma": true
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA POP",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/i5gurj5xb08b60u/pop.zip?dl=0",
+                "hash": "430cb2af3d530245b3963c1c47913122",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA QI - 2025",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/scl/fi/6ocz62ta57y5zhd5i7nb8/qi_25.zip?rlkey=o5x2s8qoli02l6vl3kwsadrvn&dl=0",
+                "hash": "08ea1dc821ccd0201dbe4a70fcf1f61c",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA POP012 - RAT",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://github.com/cetsp/kiosk/raw/master/pop12.zip",
+                "hash": "eca0356fc186dc9d3a06786ff405f5a9",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST webview_v23-release.apk",
+            "h": {
+                "pkgn": "br.com.cetsp.webview",
+                "vc": "23",
+                "fh": "c220bbd54e4f3c170382e51197ff759b"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/webview_v23-release.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST CET MOODLE",
+            "h": {
+                "pkgn": "br.com.cetsp.moodle",
+                "vc": "2",
+                "fh": "810f4c83dfb9f22cd665d5fc848e65d5"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/moodlecet_v2.apk",
+                "ma": true
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA EGO_FOTO_ZAPCET",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/lxghxtn53l1bwnn/ego_foto_zapcet.zip?dl=0",
+                "hash": "126383def10219e27a0fb6cb0d90200c",
+                "ma": true,
+                "fname": "egoftzap.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA Manual Obras",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/km9jpyc3246xtgu/pdf_manual_obras.zip?dl=0",
+                "hash": "bca3cb5e5d595e685f8be3a7d3546850",
+                "ma": true,
+                "fname": "pdf_manual_obras.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA MANUAL BAC",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/9y4nz22fb2qnkws/pdf_bac.zip?dl=0",
+                "hash": "e84cfafd3e49c62bf3a11e41a5ab9428",
+                "ma": true,
+                "fname": "pdf_bac.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA PLANO OPERACIONAL",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/abqysde3p3kquww/pdf_ativ_oper.zip?dl=0",
+                "hash": "3aac251c2ef349b6198eb2a27cde51a2",
+                "ma": true,
+                "fname": "pdf_ativ_oper.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA PROCEDIMENTO CACTC",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/zgg1gtwcruuzc6w/pdf_cactc.zip?dl=0",
+                "hash": "4b059290ec57962d472057cb96f29f26",
+                "ma": true,
+                "fname": "pdf_cactc.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA NOR073",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/2bvvbu87g49h9n8/pdf_NOR073.zip?dl=0",
+                "hash": "9554ce1d611539e8beb2f9b95e905341",
+                "ma": true,
+                "fname": "pdf_NOR073.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA ECOPONTOS GET CN",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/n6tdwyx579hn6ch/pdf_ecopontos.zip?dl=0",
+                "hash": "fe760bef787cac71b24cf5fe67cfee95",
+                "ma": true,
+                "fname": "pdf_ecopontos.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST Emergencia_V1-release.apk",
+            "h": {
+                "pkgn": "br.com.cetsp.emer",
+                "vc": "1",
+                "fh": "51e3e257881a4f07df2dfef9945c1ce5"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/Emergencia_V1-release.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INSTALAÇÃO eAIT 2.22",
+            "h": {
+                "pkgn": "br.com.cetsp.eait",
+                "vc": "22",
+                "fh": "2013d26931a61ac4b6ac427c4c290c57"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/cetspmdm/painelx/main/apks/eait_2.21.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA ZMRC",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/a4yaxyv8ppn01gf/ZMRC.zip?dl=0",
+                "hash": "adc191e231e908f90d4d2ebd7728c533",
+                "ma": true,
+                "fname": "pdf_zmrc.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA CFO_NOVO_x_ANTIGO",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/blpnranacsrqm3y/CFO_NOVO_x_ANTIGO.zip?dl=0",
+                "hash": "f23bffdc36d8e60d31625be7722ffece",
+                "ma": true,
+                "fname": "pdf_cfo_nxa.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA CFO_OBRAS_AUTORIZADAS",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/oe6v45ko37vg45h/CFO_OBRAS_AUTORIZADAS.zip?dl=0",
+                "hash": "eb58d2ac8aafc4a9af8bcc095655e9fd",
+                "ma": true,
+                "fname": "pdf_cfo_aut.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA CFO_OBRAS_NAO_AUTORIZADAS",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/yrxj7rmk18fg8e1/CFO_OBRAS_NAO_AUTORIZADAS.zip?dl=0",
+                "hash": "51ea5145c13e7b7d49a5f8a5c0a7b758",
+                "ma": true,
+                "fname": "pdf_cfo_naut.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA MANUAL MOODLE",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/xjw92eukdrg28xm/pdfmoodle.zip?dl=0",
+                "hash": "982754868453a689365952952e46d483",
+                "ma": true,
+                "fname": "pdfmoodle.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "CODIGOS RADIO",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/aw5c2a3bgkoy1kl/CODIGOS_RADIO.zip?dl=0",
+                "hash": "9f05bf02ae3846916672899611982f88",
+                "ma": true,
+                "fname": "pdf_codigos_radio.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA MENU MOBILIDADE",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/d9moxg63quh72pw/pdfmmob.zip?dl=0",
+                "hash": "c464e5805f54032406d72120439fa5f3",
+                "ma": true,
+                "fname": "pdfmmob.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INSTALAÇÃO eCFO 1.35 PRO",
+            "h": {
+                "fh": "b0e18bfe1723c39f5e9232cded9c5937",
+                "pkgn": "br.com.cetsp.ecfo",
+                "vc": "35"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ecfo_1.35.apk",
+                "ma": true
+            }
+        },
+        {
+            "t": "fil",
+            "l": "COPIA POP017 - BODY CAM",
+            "h": {},
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/pop17.zip",
+                "hash": "f251b9bfd175ad10100cc86e25f063ac",
+                "ma": true,
+                "fname": "pdf.zip",
+                "dloc": "/Download/",
+                "dexp": "/Download/"
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST Whatsapp CET",
+            "h": {
+                "pkgn": "com.whatsapp",
+                "vc": "264307538",
+                "fh": "7a62e367dd7f0fbcc3636b3edced1aaa"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://scontent.whatsapp.net/v/t61.25591-34/10000000_2553187731862611_4262411660083968946_n.apk/WhatsApp.apk?ccb=1-7&_nc_sid=c49adc&_nc_ohc=Ap9P6V8HtgsQ7kNvwHFiy0h&_nc_oc=AdrL92oeW09L42FEkOQCU5qDZKyCQNrv3Y-L4lQgpdobm4l6VM6h76TBXw1idsdlR34&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=3y41U6uSdzWub8Swub4huQ&_nc_ss=7f20f&oh=01_Q5Aa6AF-JMDj8tN8FpJMORiGoP_0iKZ4NnviKbf1g8FxP474Vw&oe=6B1152C1",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST SMobile",
+            "h": {
+                "pkgn": "com.cet.smobileresponder",
+                "vc": "8",
+                "fh": "91beda52edfbbc78bc0df2143a1bc3ad"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/SMobile-PROD_8.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST E-GO",
+            "h": {
+                "pkgn": "br.com.cetsp.ego",
+                "vc": "2002",
+                "fh": "56189384666de3ddf16b5459ad02346b"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://raw.githubusercontent.com/kiosksp002/loja/main/ego-debug-prd_4.0.3.0613.apk",
+                "ma": true,
+                "ida": true
+            }
+        },
+        {
+            "t": "apk",
+            "l": "INST. ZAPCET Telegram.apk",
+            "h": {
+                "pkgn": "org.telegram.messenger.web",
+                "vc": "31649",
+                "fh": "f9252a46b8a9b3a89792e51198dee983"
+            },
+            "d": {
+                "User-Agent": "curl/7.38.0",
+                "link": "https://www.dropbox.com/s/s9guiuk76jd38lo/Telegram.apk?dl=0",
+                "ma": true,
+                "ida": true
+            }
+        }
+    ]
+}
